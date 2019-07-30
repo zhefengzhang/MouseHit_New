@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "hole.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "hole_0": {
+      "__uuid__": "a6c3a710-b99e-4620-864e-2af46849eba4"
+    },
+    "hole_1": {
+      "__uuid__": "cea2655e-b847-44c9-b76a-f59624d2e7b1"
+    },
+    "hole_2": {
+      "__uuid__": "7867aab6-fd9f-46e3-a6fa-51869ffdadad"
+    },
+    "hole_3": {
+      "__uuid__": "f4415642-8e10-49de-868f-6f13fb448af8"
+    },
+    "hole_4": {
+      "__uuid__": "fdd0345b-9962-4ddc-b8da-f124301fdd58"
+    },
+    "hole_5": {
+      "__uuid__": "9cbe8efd-a2ef-41de-b34f-c72780eef9f7"
+    },
+    "hole_6": {
+      "__uuid__": "2fec3f92-aa8a-4b1f-a541-7736d78a67f9"
+    },
+    "hole_7": {
+      "__uuid__": "61521985-5f10-4d0f-b091-587953943505"
+    },
+    "hole_8": {
+      "__uuid__": "33f23068-6bfa-49b4-9226-4f7358fccdf3"
+    }
+  }
+}

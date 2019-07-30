@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "time_roller.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "time_roller_0": {
+      "__uuid__": "bc99225d-a5f7-4bbf-a860-d2921ef58bc1"
+    },
+    "time_roller_1": {
+      "__uuid__": "882ce801-7264-4cb9-a83b-8dece076bf82"
+    },
+    "time_roller_2": {
+      "__uuid__": "4ba6bd44-ea8b-4185-b205-8977e1e9455b"
+    }
+  }
+}

@@ -1,0 +1,704 @@
+2019-07-30T07:50:15.499Z - normal: Load ~/.CocosCreator/settings.json
+2019-07-30T07:50:16.699Z - normal: Initializing Asset Database
+2019-07-30T07:50:16.702Z - normal: checking language setting...
+2019-07-30T07:50:16.702Z - normal: Language: en
+2019-07-30T07:50:17.383Z - success: preview server running at http://localhost:7456
+2019-07-30T07:50:17.387Z - success: protocol editor-framework registered
+2019-07-30T07:50:17.387Z - success: protocol app registered
+2019-07-30T07:50:17.387Z - success: protocol theme registered
+2019-07-30T07:50:17.387Z - success: protocol packages registered
+2019-07-30T07:50:17.387Z - success: protocol uuid registerred
+2019-07-30T07:50:17.387Z - success: protocol db registerred
+2019-07-30T07:50:17.387Z - success: protocol thumbnail registerred
+2019-07-30T07:50:17.387Z - success: protocol unpack registerred
+2019-07-30T07:50:17.387Z - success: protocol disable-commonjs registerred
+2019-07-30T07:50:17.597Z - normal: connected!
+2019-07-30T07:50:17.599Z - normal: Check project C:\Users\Administrator\Desktop\07302019\002\MouseHit_New\MouseHit_New
+2019-07-30T07:50:17.600Z - normal: Initializing project C:\Users\Administrator\Desktop\07302019\002\MouseHit_New\MouseHit_New
+2019-07-30T07:50:18.005Z - normal: Initializing Cocos2d
+2019-07-30T07:50:18.875Z - normal: Initializing engine extends
+2019-07-30T07:50:18.894Z - success: asset-db-debugger loaded
+2019-07-30T07:50:18.896Z - success: baidu-adapter loaded
+2019-07-30T07:50:18.898Z - success: color-picker loaded
+2019-07-30T07:50:18.985Z - success: fb-audience-network loaded
+2019-07-30T07:50:19.041Z - success: fb-live-stream loaded
+2019-07-30T07:50:19.045Z - success: google-play-instant loaded
+2019-07-30T07:50:19.050Z - success: huawei-runtime loaded
+2019-07-30T07:50:19.300Z - success: cpk-publish loaded
+2019-07-30T07:50:19.301Z - success: jsb-adapter loaded
+2019-07-30T07:50:19.306Z - success: oppo-runtime loaded
+2019-07-30T07:50:19.309Z - success: package-manager loaded
+2019-07-30T07:50:19.426Z - success: qqplay-adapter loaded
+2019-07-30T07:50:19.428Z - success: runtime-dev-tools loaded
+2019-07-30T07:50:19.433Z - success: sdkbox loaded
+2019-07-30T07:50:19.436Z - success: tester loaded
+2019-07-30T07:50:19.439Z - success: ui-grid loaded
+2019-07-30T07:50:19.441Z - success: ui-kit-preview-extra loaded
+2019-07-30T07:50:19.443Z - success: ui-kit-preview loaded
+2019-07-30T07:50:19.445Z - success: ui-kit loaded
+2019-07-30T07:50:19.447Z - success: ui-tree loaded
+2019-07-30T07:50:19.452Z - success: vivo-runtime loaded
+2019-07-30T07:50:19.453Z - success: weapp-adapter loaded
+2019-07-30T07:50:19.453Z - success: xiaomi-adapter loaded
+2019-07-30T07:50:19.499Z - success: assets loaded
+2019-07-30T07:50:19.500Z - success: builder loaded
+2019-07-30T07:50:19.759Z - success: cocos-services loaded
+2019-07-30T07:50:19.765Z - success: console loaded
+2019-07-30T07:50:19.800Z - success: fb-instant-games loaded
+2019-07-30T07:50:19.803Z - success: game-window loaded
+2019-07-30T07:50:19.804Z - success: google-instant-games loaded
+2019-07-30T07:50:19.809Z - success: hierarchy loaded
+2019-07-30T07:50:19.811Z - success: inspector loaded
+2019-07-30T07:50:19.813Z - success: keystore loaded
+2019-07-30T07:50:19.817Z - success: node-library loaded
+2019-07-30T07:50:19.819Z - success: package-asset loaded
+2019-07-30T07:50:19.821Z - success: preferences loaded
+2019-07-30T07:50:19.822Z - success: project-exporter loaded
+2019-07-30T07:50:19.825Z - success: project-importer loaded
+2019-07-30T07:50:19.827Z - success: project-settings loaded
+2019-07-30T07:50:19.833Z - success: scene loaded
+2019-07-30T07:50:19.834Z - success: simulator-debugger loaded
+2019-07-30T07:50:19.836Z - success: sprite-editor loaded
+2019-07-30T07:50:19.839Z - success: store loaded
+2019-07-30T07:50:19.844Z - success: timeline loaded
+2019-07-30T07:50:19.849Z - success: xiaomi-runtime loaded
+2019-07-30T07:50:22.040Z - info: Cocos Services load base data!
+2019-07-30T07:50:27.335Z - normal: Loading packages
+2019-07-30T07:50:27.342Z - normal: Watching packages
+2019-07-30T07:50:27.943Z - normal: Run Application
+2019-07-30T07:53:09.634Z - warn: The Prefab used by node "Sp Score 5" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 0/Nodes Score Effect/Nodes Score 0/Sp Score 5"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:16.922Z - info: Only the prefab node "Sp Hammer" and its child nodes are saved.
+2019-07-30T07:53:17.853Z - warn: The Asset used by node "Sp Score 5" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 0/Nodes Score Effect/Nodes Score 0/Sp Score 5"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.853Z - warn: The Asset used by node "Sp Score 1" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 0/Nodes Score Effect/Nodes Score 0/Sp Score 1"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.854Z - warn: The Asset used by node "Nodes Score 0" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 0/Nodes Score Effect/Nodes Score 0"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.855Z - warn: The Asset used by node "Sp Score 0" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 0/Nodes Score Effect/Sp Score 0"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.855Z - warn: The Asset used by node "Sp Score 9" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 0/Nodes Score Effect/Nodes Score 1/Sp Score 9"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.856Z - warn: The Asset used by node "Sp Score 8" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 0/Nodes Score Effect/Nodes Score 1/Sp Score 8"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.856Z - warn: The Asset used by node "Nodes Score 1" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 0/Nodes Score Effect/Nodes Score 1"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.856Z - warn: The Asset used by node "Sp Score 7" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 0/Nodes Score Effect/Nodes Score 2/Sp Score 7"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.857Z - warn: The Asset used by node "Sp Score 3" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 0/Nodes Score Effect/Nodes Score 2/Sp Score 3"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.858Z - warn: The Asset used by node "Nodes Score 2" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 0/Nodes Score Effect/Nodes Score 2"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.858Z - warn: The Asset used by node "Sp Score 6" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 0/Nodes Score Effect/Nodes Score 3/Sp Score 6"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.858Z - warn: The Asset used by node "Sp Score 4" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 0/Nodes Score Effect/Nodes Score 3/Sp Score 4"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.858Z - warn: The Asset used by node "Nodes Score 3" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 0/Nodes Score Effect/Nodes Score 3"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.858Z - warn: The Asset used by node "Nodes Score Effect" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 0/Nodes Score Effect"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.860Z - warn: The Asset used by node "Sp Score 5" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 1/Nodes Score Effect/Nodes Score 0/Sp Score 5"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.861Z - warn: The Asset used by node "Sp Score 1" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 1/Nodes Score Effect/Nodes Score 0/Sp Score 1"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.861Z - warn: The Asset used by node "Nodes Score 0" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 1/Nodes Score Effect/Nodes Score 0"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.861Z - warn: The Asset used by node "Sp Score 0" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 1/Nodes Score Effect/Sp Score 0"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.861Z - warn: The Asset used by node "Sp Score 9" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 1/Nodes Score Effect/Nodes Score 1/Sp Score 9"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.862Z - warn: The Asset used by node "Sp Score 8" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 1/Nodes Score Effect/Nodes Score 1/Sp Score 8"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.862Z - warn: The Asset used by node "Nodes Score 1" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 1/Nodes Score Effect/Nodes Score 1"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.863Z - warn: The Asset used by node "Sp Score 7" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 1/Nodes Score Effect/Nodes Score 2/Sp Score 7"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.863Z - warn: The Asset used by node "Sp Score 3" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 1/Nodes Score Effect/Nodes Score 2/Sp Score 3"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.863Z - warn: The Asset used by node "Nodes Score 2" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 1/Nodes Score Effect/Nodes Score 2"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.864Z - warn: The Asset used by node "Sp Score 6" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 1/Nodes Score Effect/Nodes Score 3/Sp Score 6"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.865Z - warn: The Asset used by node "Sp Score 4" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 1/Nodes Score Effect/Nodes Score 3/Sp Score 4"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.865Z - warn: The Asset used by node "Nodes Score 3" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 1/Nodes Score Effect/Nodes Score 3"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.866Z - warn: The Asset used by node "Nodes Score Effect" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 1/Nodes Score Effect"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.868Z - warn: The Asset used by node "Sp Score 5" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 2/Nodes Score Effect/Nodes Score 0/Sp Score 5"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.869Z - warn: The Asset used by node "Sp Score 1" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 2/Nodes Score Effect/Nodes Score 0/Sp Score 1"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.869Z - warn: The Asset used by node "Nodes Score 0" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 2/Nodes Score Effect/Nodes Score 0"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.869Z - warn: The Asset used by node "Sp Score 0" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 2/Nodes Score Effect/Sp Score 0"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.870Z - warn: The Asset used by node "Sp Score 9" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 2/Nodes Score Effect/Nodes Score 1/Sp Score 9"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.870Z - warn: The Asset used by node "Sp Score 8" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 2/Nodes Score Effect/Nodes Score 1/Sp Score 8"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.871Z - warn: The Asset used by node "Nodes Score 1" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 2/Nodes Score Effect/Nodes Score 1"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.872Z - warn: The Asset used by node "Sp Score 7" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 2/Nodes Score Effect/Nodes Score 2/Sp Score 7"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.872Z - warn: The Asset used by node "Sp Score 3" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 2/Nodes Score Effect/Nodes Score 2/Sp Score 3"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.872Z - warn: The Asset used by node "Nodes Score 2" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 2/Nodes Score Effect/Nodes Score 2"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.872Z - warn: The Asset used by node "Sp Score 6" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 2/Nodes Score Effect/Nodes Score 3/Sp Score 6"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.873Z - warn: The Asset used by node "Sp Score 4" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 2/Nodes Score Effect/Nodes Score 3/Sp Score 4"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.873Z - warn: The Asset used by node "Nodes Score 3" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 2/Nodes Score Effect/Nodes Score 3"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.873Z - warn: The Asset used by node "Nodes Score Effect" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 2/Nodes Score Effect"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.875Z - warn: The Asset used by node "Sp Score 5" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 3/Nodes Score Effect/Nodes Score 0/Sp Score 5"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.875Z - warn: The Asset used by node "Sp Score 1" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 3/Nodes Score Effect/Nodes Score 0/Sp Score 1"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.875Z - warn: The Asset used by node "Nodes Score 0" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 3/Nodes Score Effect/Nodes Score 0"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.876Z - warn: The Asset used by node "Sp Score 0" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 3/Nodes Score Effect/Sp Score 0"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.877Z - warn: The Asset used by node "Sp Score 9" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 3/Nodes Score Effect/Nodes Score 1/Sp Score 9"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.877Z - warn: The Asset used by node "Sp Score 8" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 3/Nodes Score Effect/Nodes Score 1/Sp Score 8"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.878Z - warn: The Asset used by node "Nodes Score 1" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 3/Nodes Score Effect/Nodes Score 1"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.878Z - warn: The Asset used by node "Sp Score 7" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 3/Nodes Score Effect/Nodes Score 2/Sp Score 7"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.878Z - warn: The Asset used by node "Sp Score 3" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 3/Nodes Score Effect/Nodes Score 2/Sp Score 3"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.878Z - warn: The Asset used by node "Nodes Score 2" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 3/Nodes Score Effect/Nodes Score 2"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.878Z - warn: The Asset used by node "Sp Score 6" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 3/Nodes Score Effect/Nodes Score 3/Sp Score 6"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.879Z - warn: The Asset used by node "Sp Score 4" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 3/Nodes Score Effect/Nodes Score 3/Sp Score 4"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.879Z - warn: The Asset used by node "Nodes Score 3" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 3/Nodes Score Effect/Nodes Score 3"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.879Z - warn: The Asset used by node "Nodes Score Effect" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 3/Nodes Score Effect"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.881Z - warn: The Asset used by node "Sp Score 5" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 4/Nodes Score Effect/Nodes Score 0/Sp Score 5"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.882Z - warn: The Asset used by node "Sp Score 1" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 4/Nodes Score Effect/Nodes Score 0/Sp Score 1"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.883Z - warn: The Asset used by node "Nodes Score 0" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 4/Nodes Score Effect/Nodes Score 0"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.886Z - warn: The Asset used by node "Sp Score 0" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 4/Nodes Score Effect/Sp Score 0"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.887Z - warn: The Asset used by node "Sp Score 9" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 4/Nodes Score Effect/Nodes Score 1/Sp Score 9"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.888Z - warn: The Asset used by node "Sp Score 8" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 4/Nodes Score Effect/Nodes Score 1/Sp Score 8"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.888Z - warn: The Asset used by node "Nodes Score 1" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 4/Nodes Score Effect/Nodes Score 1"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.889Z - warn: The Asset used by node "Sp Score 7" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 4/Nodes Score Effect/Nodes Score 2/Sp Score 7"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.889Z - warn: The Asset used by node "Sp Score 3" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 4/Nodes Score Effect/Nodes Score 2/Sp Score 3"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.890Z - warn: The Asset used by node "Nodes Score 2" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 4/Nodes Score Effect/Nodes Score 2"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.890Z - warn: The Asset used by node "Sp Score 6" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 4/Nodes Score Effect/Nodes Score 3/Sp Score 6"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.890Z - warn: The Asset used by node "Sp Score 4" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 4/Nodes Score Effect/Nodes Score 3/Sp Score 4"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.890Z - warn: The Asset used by node "Nodes Score 3" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 4/Nodes Score Effect/Nodes Score 3"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.891Z - warn: The Asset used by node "Nodes Score Effect" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 4/Nodes Score Effect"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.893Z - warn: The Asset used by node "Sp Score 5" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 5/Nodes Score Effect/Nodes Score 0/Sp Score 5"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.894Z - warn: The Asset used by node "Sp Score 1" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 5/Nodes Score Effect/Nodes Score 0/Sp Score 1"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.894Z - warn: The Asset used by node "Nodes Score 0" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 5/Nodes Score Effect/Nodes Score 0"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.912Z - warn: The Asset used by node "Sp Score 0" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 5/Nodes Score Effect/Sp Score 0"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.918Z - warn: The Asset used by node "Sp Score 9" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 5/Nodes Score Effect/Nodes Score 1/Sp Score 9"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.919Z - warn: The Asset used by node "Sp Score 8" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 5/Nodes Score Effect/Nodes Score 1/Sp Score 8"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.919Z - warn: The Asset used by node "Nodes Score 1" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 5/Nodes Score Effect/Nodes Score 1"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.919Z - warn: The Asset used by node "Sp Score 7" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 5/Nodes Score Effect/Nodes Score 2/Sp Score 7"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.919Z - warn: The Asset used by node "Sp Score 3" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 5/Nodes Score Effect/Nodes Score 2/Sp Score 3"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.919Z - warn: The Asset used by node "Nodes Score 2" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 5/Nodes Score Effect/Nodes Score 2"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.920Z - warn: The Asset used by node "Sp Score 6" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 5/Nodes Score Effect/Nodes Score 3/Sp Score 6"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.920Z - warn: The Asset used by node "Sp Score 4" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 5/Nodes Score Effect/Nodes Score 3/Sp Score 4"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.921Z - warn: The Asset used by node "Nodes Score 3" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 5/Nodes Score Effect/Nodes Score 3"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.921Z - warn: The Asset used by node "Nodes Score Effect" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 5/Nodes Score Effect"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.924Z - warn: The Asset used by node "Sp Score 5" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 6/Nodes Score Effect/Nodes Score 0/Sp Score 5"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.924Z - warn: The Asset used by node "Sp Score 1" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 6/Nodes Score Effect/Nodes Score 0/Sp Score 1"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.925Z - warn: The Asset used by node "Nodes Score 0" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 6/Nodes Score Effect/Nodes Score 0"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.926Z - warn: The Asset used by node "Sp Score 0" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 6/Nodes Score Effect/Sp Score 0"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.926Z - warn: The Asset used by node "Sp Score 9" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 6/Nodes Score Effect/Nodes Score 1/Sp Score 9"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.927Z - warn: The Asset used by node "Sp Score 8" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 6/Nodes Score Effect/Nodes Score 1/Sp Score 8"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.928Z - warn: The Asset used by node "Nodes Score 1" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 6/Nodes Score Effect/Nodes Score 1"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.929Z - warn: The Asset used by node "Sp Score 7" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 6/Nodes Score Effect/Nodes Score 2/Sp Score 7"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.929Z - warn: The Asset used by node "Sp Score 3" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 6/Nodes Score Effect/Nodes Score 2/Sp Score 3"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.931Z - warn: The Asset used by node "Nodes Score 2" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 6/Nodes Score Effect/Nodes Score 2"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.931Z - warn: The Asset used by node "Sp Score 6" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 6/Nodes Score Effect/Nodes Score 3/Sp Score 6"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.932Z - warn: The Asset used by node "Sp Score 4" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 6/Nodes Score Effect/Nodes Score 3/Sp Score 4"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.932Z - warn: The Asset used by node "Nodes Score 3" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 6/Nodes Score Effect/Nodes Score 3"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.932Z - warn: The Asset used by node "Nodes Score Effect" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 6/Nodes Score Effect"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.934Z - warn: The Asset used by node "Sp Score 5" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 7/Nodes Score Effect/Nodes Score 0/Sp Score 5"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.934Z - warn: The Asset used by node "Sp Score 1" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 7/Nodes Score Effect/Nodes Score 0/Sp Score 1"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.935Z - warn: The Asset used by node "Nodes Score 0" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 7/Nodes Score Effect/Nodes Score 0"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.935Z - warn: The Asset used by node "Sp Score 0" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 7/Nodes Score Effect/Sp Score 0"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.935Z - warn: The Asset used by node "Sp Score 9" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 7/Nodes Score Effect/Nodes Score 1/Sp Score 9"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.937Z - warn: The Asset used by node "Sp Score 8" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 7/Nodes Score Effect/Nodes Score 1/Sp Score 8"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.937Z - warn: The Asset used by node "Nodes Score 1" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 7/Nodes Score Effect/Nodes Score 1"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.937Z - warn: The Asset used by node "Sp Score 7" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 7/Nodes Score Effect/Nodes Score 2/Sp Score 7"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.938Z - warn: The Asset used by node "Sp Score 3" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 7/Nodes Score Effect/Nodes Score 2/Sp Score 3"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.939Z - warn: The Asset used by node "Nodes Score 2" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 7/Nodes Score Effect/Nodes Score 2"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.939Z - warn: The Asset used by node "Sp Score 6" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 7/Nodes Score Effect/Nodes Score 3/Sp Score 6"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.940Z - warn: The Asset used by node "Sp Score 4" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 7/Nodes Score Effect/Nodes Score 3/Sp Score 4"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.940Z - warn: The Asset used by node "Nodes Score 3" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 7/Nodes Score Effect/Nodes Score 3"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.940Z - warn: The Asset used by node "Nodes Score Effect" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 7/Nodes Score Effect"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.942Z - warn: The Asset used by node "Sp Score 5" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 8/Nodes Score Effect/Nodes Score 0/Sp Score 5"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.943Z - warn: The Asset used by node "Sp Score 1" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 8/Nodes Score Effect/Nodes Score 0/Sp Score 1"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.943Z - warn: The Asset used by node "Nodes Score 0" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 8/Nodes Score Effect/Nodes Score 0"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.944Z - warn: The Asset used by node "Sp Score 0" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 8/Nodes Score Effect/Sp Score 0"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.948Z - warn: The Asset used by node "Sp Score 9" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 8/Nodes Score Effect/Nodes Score 1/Sp Score 9"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.948Z - warn: The Asset used by node "Sp Score 8" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 8/Nodes Score Effect/Nodes Score 1/Sp Score 8"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.948Z - warn: The Asset used by node "Nodes Score 1" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 8/Nodes Score Effect/Nodes Score 1"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.949Z - warn: The Asset used by node "Sp Score 7" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 8/Nodes Score Effect/Nodes Score 2/Sp Score 7"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.949Z - warn: The Asset used by node "Sp Score 3" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 8/Nodes Score Effect/Nodes Score 2/Sp Score 3"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.949Z - warn: The Asset used by node "Nodes Score 2" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 8/Nodes Score Effect/Nodes Score 2"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.949Z - warn: The Asset used by node "Sp Score 6" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 8/Nodes Score Effect/Nodes Score 3/Sp Score 6"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.949Z - warn: The Asset used by node "Sp Score 4" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 8/Nodes Score Effect/Nodes Score 3/Sp Score 4"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.949Z - warn: The Asset used by node "Nodes Score 3" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 8/Nodes Score Effect/Nodes Score 3"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:53:17.953Z - warn: The Asset used by node "Nodes Score Effect" in scene "Game.fire" is missing. Detailed information:
+Node path: "Canvas/Sp Game Bg/Nodes Mouse/Mask Hole 8/Nodes Score Effect"
+Asset url: "db://assets/Scene/Game.fire"
+Missing uuid: "60b2f1cf-ca7c-406e-9788-4544eec6b32b"
+
+2019-07-30T07:57:12.972Z - info: shutdown preview server

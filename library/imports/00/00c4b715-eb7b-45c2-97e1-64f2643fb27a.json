@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "animal.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "harmful_mouse_0": {
+      "__uuid__": "7435e794-298b-4e8a-b033-b095746b3b03"
+    },
+    "harmful_mouse_1": {
+      "__uuid__": "bf57d1b5-3277-4026-a5c2-df60ce3b240b"
+    },
+    "kind_mouse_0": {
+      "__uuid__": "53a284d8-2365-4685-baf2-2ac784b2fa9b"
+    },
+    "kind_mouse_1": {
+      "__uuid__": "2ef7a3a8-10f1-4a62-910c-3bb74ba17520"
+    },
+    "rabbit_0": {
+      "__uuid__": "76d2a21a-8b28-426d-9add-a583cbf16ca6"
+    }
+  }
+}

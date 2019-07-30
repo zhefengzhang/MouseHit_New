@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall",
+    "texture": "2589b9bb-922a-4b5a-8790-8d6db1a801ac",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      748,
+      550
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      750,
+      550
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

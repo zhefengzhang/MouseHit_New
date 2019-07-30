@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "harmful_mouse_1_death",
+    "texture": "59fbd8a6-8af1-475a-bf59-48ec0965dab5",
+    "atlas": "2d69608f-aeeb-4d64-ae9f-9e99a4e29310",
+    "rect": [
+      0,
+      84,
+      120,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
